@@ -1,0 +1,5 @@
+
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾ìß¤ùÿÿÿÿ
+usquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ãÓã’ÿÿÿÿÿ
+}squid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(óÄ¸8ßËï×¿.

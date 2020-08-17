@@ -1,0 +1,11 @@
+
+tsquid:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ý¶÷™ûÿÿÿÿ8¢Žÿ×¿.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦œß®8¢Žÿ×¿.
+?squid:S1148"#Use a logger to log this exception.(Ú‚öÜ8¢Žÿ×¿.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(æ›ü¤þÿÿÿÿ8¢Žÿ×¿.
+Hsquid:S1602",Remove useless curly braces around statement(¥—ýð8¢Žÿ×¿.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ùÙ·õüÿÿÿÿ8¢Žÿ×¿.
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(Ú‚öÜ8¢Žÿ×¿.

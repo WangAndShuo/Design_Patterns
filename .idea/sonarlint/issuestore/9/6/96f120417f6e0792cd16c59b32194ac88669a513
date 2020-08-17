@@ -1,0 +1,8 @@
+
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¼ÿ×¿.
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ìçû8¼ÿ×¿.
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¼ÿ×¿.
+tsquid:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†œ–‘ûÿÿÿÿ8¼ÿ×¿.
+Hsquid:S1602",Remove useless curly braces around statement(¥—ığ8¼ÿ×¿.
+_squid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(­²ÙÍ8¼ÿ×¿.

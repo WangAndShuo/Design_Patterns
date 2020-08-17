@@ -1,0 +1,6 @@
+
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ìçû8ˆ’ÿ×¿.
+tsquid:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ï¢ûýÿÿÿÿ8ˆ’ÿ×¿.
+Osquid:S3077".Remove the "volatile" keyword from this field.(¿Ï¢ûýÿÿÿÿ8ˆ’ÿ×¿.
+Hsquid:S1602",Remove useless curly braces around statement(¥—ýð8ˆ’ÿ×¿.

@@ -1,0 +1,7 @@
+
+Hsquid:S1602",Remove useless curly braces around statement(¥—ýð8¾‘ÿ×¿.
+tsquid:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ÖºÃøÿÿÿÿ8¾‘ÿ×¿.
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¾‘ÿ×¿.
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ìçû8¾‘ÿ×¿.
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¾‘ÿ×¿.
